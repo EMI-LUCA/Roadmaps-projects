@@ -1,0 +1,8 @@
+- started project
+- created repository
+- git initiated
+- cloned repository
+- created roadmap_hello_world.txt
+- run git status
+- git commit roadmap_hello_world.txt
+- git add roadmap_hello_world.txt
