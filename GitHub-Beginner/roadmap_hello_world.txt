@@ -13,3 +13,8 @@
 - one last git status
 
 Done
+________________________________________
+
+part 2
+
+- add new things like this website: https://inter-git.com/lessons/your-workspace?completed=introduction
