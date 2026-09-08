@@ -3,10 +3,14 @@ reference : https://roadmap.sh/git-github-beginner
 Done:
  -basics
 
-
  -basics with Git Usage
+    - git init: initializing repositories
+    - git add : adding changes to staging
+    - git commit : committing changes
+    - git reset : un-staging changes
+    - git ignore : file usage
+    - git creating and merging branches
 
- 
  -collaboration
 
 in the process:
